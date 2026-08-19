@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em Construção - Plugin Financeiro</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: #0B0C10; /* Fundo escuro premium idêntico ao index */
+            color: #FFFFFF;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            background-color: #11141a; /* Container escuro levemente contrastante */
+            padding: 50px 40px;
+            border-radius: 8px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            width: 100%;
+            max-width: 650px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        /* Estrutura de Cabeçalho Superior idêntica aos outros simuladores */
+        .logo-back-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            padding-bottom: 20px;
+        }
+
+        .logo-back-container img {
+            max-width: 250px;
+            height: auto;
+        }
+
+        .btn-back {
+            padding: 10px 20px;
+            color: #FFFFFF;
+            background: linear-gradient(135deg, #1f4068, #162447);
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 11px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .btn-back:hover {
+            background: linear-gradient(135deg, #0056b3, #1f4068);
+            border-color: #45F3FF;
+            box-shadow: 0 0 10px rgba(69, 243, 255, 0.2);
+        }
+
+        .icone {
+            font-size: 60px;
+            margin-bottom: 20px;
+            filter: drop-shadow(0 0 10px rgba(69, 243, 255, 0.4));
+        }
+
+        h2 {
+            color: #FFFFFF;
+            margin-bottom: 15px;
+            font-size: 22px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .linha {
+            width: 80px;
+            height: 2px;
+            background: #45F3FF;
+            margin: 0 auto 20px auto;
+        }
+
+        p {
+            color: #b0b3b8;
+            font-size: 15px;
+            line-height: 1.6;
+            max-width: 450px;
+            margin: 0 auto 30px auto;
+        }
+
+        p strong {
+            color: #45F3FF;
+            font-weight: normal;
+        }
+
+        .barra-progresso {
+            width: 100%;
+            height: 8px;
+            background-color: #162447;
+            border-radius: 4px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            margin-bottom: 30px;
+        }
+
+        .barra-progresso-preenchida {
+            width: 35%;
+            height: 100%;
+            background: linear-gradient(90deg, #1f4068, #45F3FF);
+            border-radius: 4px;
+            box-shadow: 0 0 10px rgba(69, 243, 255, 0.4);
+            animation: pulsar 2s ease-in-out infinite;
+        }
+
+        @keyframes pulsar {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.6; }
+        }
+
+        .btn-principal {
+            display: inline-block;
+            padding: 16px 30px;
+            color: #FFFFFF;
+            background: linear-gradient(135deg, #1f4068, #162447);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 13px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        .btn-principal:hover {
+            background: linear-gradient(135deg, #0056b3, #1f4068);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(69, 243, 255, 0.2);
+            border-color: #45F3FF;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Bloco superior com a Logo e botão Voltar adicionados no mesmo layout padrão -->
+    <div class="logo-back-container">
+        <img src="assets/LOGO.png" alt="Plugin Celulares & Acessórios">
+        <a href="index.html" class="btn-back">⬅ Voltar ao Painel</a>
+    </div>
+
+    <div class="icone">🚧</div>
+
+    <h2>Página em Construção</h2>
+    <div class="linha"></div>
+
+    <p>Esta ferramenta ainda está sendo desenvolvida e estará disponível em breve. Volte ao painel principal para acessar as funcionalidades já liberadas.</p>
+
+    <div class="barra-progresso">
+        <div class="barra-progresso-preenchida"></div>
+    </div>
+
+    <a href="index.html" class="btn-principal">Voltar ao Painel</a>
+</div>
+
+</body>
+</html>
