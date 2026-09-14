@@ -1,10 +1,25 @@
 {
-  "ultima_atualizacao": "2026-09-09T12:11:02.617Z",
+  "ultima_atualizacao": "2026-09-14T15:10:59.212Z",
   "tabela_android_acessorios_diversos": {
     "categorias": [
       {
         "nome": "GALAXY",
         "itens": [
+          {
+            "modelo": "Galaxy A07 128/4GB",
+            "preco": "R$ 1.001,00",
+            "cores": [
+              "preto"
+            ]
+          },
+          {
+            "modelo": "Galaxy A07 256/8GB",
+            "preco": "R$ 1.131,00",
+            "cores": [
+              "preto",
+              "roxo"
+            ]
+          },
           {
             "modelo": "Galaxy A17 128/4GB",
             "preco": "R$ 1.157,00",
@@ -15,6 +30,22 @@
           {
             "modelo": "Galaxy A17 256/8GB",
             "preco": "R$ 1.664,00",
+            "cores": [
+              "preto",
+              "cinza",
+              "azul"
+            ]
+          },
+          {
+            "modelo": "Galaxy S25 FE 5G NFC 256/8GB",
+            "preco": "R$ 4.095,00",
+            "cores": [
+              "azul"
+            ]
+          },
+          {
+            "modelo": "Galaxy S26 Ultra 5G NFC 256/12GB",
+            "preco": "R$ 7.930,00",
             "cores": [
               "preto"
             ]
@@ -60,7 +91,7 @@
         "itens": [
           {
             "modelo": "Honor Magic7 Lite 512/12GB",
-            "preco": "R$ 2.470,00",
+            "preco": "R$ 2.340,00",
             "cores": [
               "Roxo"
             ]
@@ -235,8 +266,7 @@
             "preco": "R$ 1.976,00",
             "cores": [
               "azul",
-              "verde",
-              "Rosa"
+              "pink"
             ]
           }
         ]
@@ -279,22 +309,14 @@
             "preco": "R$ 1.592,50",
             "cores": [
               "preto",
-              "verde",
               "azul"
-            ]
-          },
-          {
-            "modelo": "Note 15 5G NFC 256/8GB",
-            "preco": "R$ 2.002,00",
-            "cores": [
-              "preto"
             ]
           },
           {
             "modelo": "Note 15 Pro NFC 256/8GB",
             "preco": "R$ 2.067,00",
             "cores": [
-              "azul"
+              "preto"
             ]
           },
           {
@@ -357,14 +379,6 @@
             ]
           },
           {
-            "modelo": "Poco C85 256/8GB",
-            "preco": "R$ 1.274,00",
-            "cores": [
-              "verde",
-              "roxo"
-            ]
-          },
-          {
             "modelo": "Poco M8s 5G NFC 128/6GB",
             "preco": "R$ 1.495,00",
             "cores": [
@@ -384,7 +398,6 @@
             "modelo": "Poco M8 Pro 5G NFC 512/12GB",
             "preco": "R$ 2.483,00",
             "cores": [
-              "Preto",
               "prata"
             ]
           },
@@ -399,7 +412,6 @@
             "modelo": "Poco X8 Pro 5G NFC 256/8GB",
             "preco": "R$ 2.899,00",
             "cores": [
-              "verde",
               "amarelo"
             ]
           },
@@ -408,14 +420,6 @@
             "preco": "R$ 3.224,00",
             "cores": [
               "verde"
-            ]
-          },
-          {
-            "modelo": "Poco X8 Pro 5G NFC 512/12GB",
-            "preco": "R$ 3.276,00",
-            "cores": [
-              "preto",
-              "branco"
             ]
           },
           {
@@ -460,14 +464,16 @@
             "modelo": "Realme Note 60x 64/4GB",
             "preco": "R$ 780,00",
             "cores": [
-              "preto"
+              "preto",
+              "verde"
             ]
           },
           {
             "modelo": "Realme Note 70 128/4GB",
             "preco": "R$ 1.053,00",
             "cores": [
-              "gold"
+              "gold",
+              "preto"
             ]
           },
           {
@@ -488,7 +494,7 @@
             "modelo": "Realme C71 NFC 256/8GB",
             "preco": "R$ 1.267,50",
             "cores": [
-              "branco e verde"
+              "verde"
             ]
           },
           {
@@ -618,32 +624,25 @@
             ]
           },
           {
-            "modelo": "Redmi 15C 256/4+4GB",
-            "preco": "R$ 1.150,50",
-            "cores": [
-              "preto"
-            ]
-          },
-          {
             "modelo": "Redmi 15C 256/8GB",
             "preco": "R$ 1.248,00",
             "cores": [
-              "preto",
-              "verde"
+              "preto"
             ]
           },
           {
             "modelo": "Redmi 15 128/6GB",
             "preco": "R$ 1.196,00",
             "cores": [
-              "preto e roxo"
+              "preto",
+              "cinza e roxo"
             ]
           },
           {
             "modelo": "Redmi 15 256/8GB",
             "preco": "R$ 1.456,00",
             "cores": [
-              "preto e cinza"
+              "preto"
             ]
           }
         ]
@@ -692,7 +691,969 @@
     ]
   },
   "tabela_acessorios": {
-    "categorias": []
+    "categorias": [
+      {
+        "nome": "A2",
+        "itens": [
+          {
+            "modelo": "A2",
+            "preco": "R$ 351,00",
+            "cores": [
+              "Pega todos os canais ESPN"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "ALEXA",
+        "itens": [
+          {
+            "modelo": "Alexa  dot 5",
+            "preco": "R$ 507,00",
+            "cores": [
+              "preta",
+              "azul",
+              "branca"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "BATERIA",
+        "itens": [
+          {
+            "modelo": "Bateria p/ hoverboard",
+            "preco": "R$ 390,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "BRTV",
+        "itens": [
+          {
+            "modelo": "BrTV v15",
+            "preco": "R$ 351,00",
+            "cores": [
+              "Pega todos os canais ESPN"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "COMBO",
+        "itens": [
+          {
+            "modelo": "Combo Gamer Kross 4 em 1",
+            "preco": "R$ 182,00",
+            "cores": [
+              "KE-GK4100"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "FIRE",
+        "itens": [
+          {
+            "modelo": "Fire Stick TV 3° Geração 8GB",
+            "preco": "R$ 312,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fire Stick TV HD 8GB",
+            "preco": "R$ 299,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fire Stick TV 4K 8GB",
+            "preco": "R$ 364,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fire Stick TV 4k Max",
+            "preco": "R$ 559,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "FONE",
+        "itens": [
+          {
+            "modelo": "Fone Multi  Airbuds TWS",
+            "preco": "R$ 91,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "GALAXY",
+        "itens": [
+          {
+            "modelo": "Galaxy Watch 8 44mm",
+            "preco": "R$ 1.937,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "HAYLOU",
+        "itens": [
+          {
+            "modelo": "Haylou Whatch S6",
+            "preco": "R$ 195,00",
+            "cores": []
+          },
+          {
+            "modelo": "Haylou Solar Neo",
+            "preco": "R$ 234,00",
+            "cores": []
+          },
+          {
+            "modelo": "Haylou Solar Lite 2",
+            "preco": "R$ 260,00",
+            "cores": [
+              "azul"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "HD",
+        "itens": [
+          {
+            "modelo": "HD Seagate interno 500GB",
+            "preco": "R$ 266,50",
+            "cores": [
+              "para notebook"
+            ]
+          },
+          {
+            "modelo": "HD Seagate interno 1TB",
+            "preco": "R$ 487,50",
+            "cores": [
+              "para pc"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "HOVERBOARD",
+        "itens": [
+          {
+            "modelo": "Hoverboard",
+            "preco": "R$ 767,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "HTV",
+        "itens": [
+          {
+            "modelo": "HTV 9",
+            "preco": "R$ 1.300,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "JBL",
+        "itens": [
+          {
+            "modelo": "Bolsa-case p/ JBL boombox",
+            "preco": "R$ 143,00",
+            "cores": []
+          },
+          {
+            "modelo": "Microfone JBL",
+            "preco": "R$ 390,00",
+            "cores": [
+              "PBM 100"
+            ]
+          },
+          {
+            "modelo": "Microfone JBL",
+            "preco": "R$ 780,00",
+            "cores": [
+              "Quantum Stream"
+            ]
+          },
+          {
+            "modelo": "Microfone JBL",
+            "preco": "R$ 897,00",
+            "cores": [
+              "PBW C/2"
+            ]
+          },
+          {
+            "modelo": "JBL Boombox GO ESSENTIAL 2",
+            "preco": "R$ 234,00",
+            "cores": [
+              "preto"
+            ]
+          },
+          {
+            "modelo": "JBL GO 4",
+            "preco": "R$ 305,50",
+            "cores": [
+              "preta",
+              "vermelha"
+            ]
+          },
+          {
+            "modelo": "JBL GO 5",
+            "preco": "R$ 364,00",
+            "cores": [
+              "preto",
+              "azul",
+              "branco",
+              "camuflada"
+            ]
+          },
+          {
+            "modelo": "JBL Grip",
+            "preco": "R$ 585,00",
+            "cores": [
+              "preta"
+            ]
+          },
+          {
+            "modelo": "JBL FLIP 7",
+            "preco": "R$ 754,00",
+            "cores": [
+              "Vermelha",
+              "Rosa"
+            ]
+          },
+          {
+            "modelo": "JBL Charge 6",
+            "preco": "R$ 1.131,00",
+            "cores": [
+              "preta"
+            ]
+          },
+          {
+            "modelo": "JBL Extreme 5",
+            "preco": "R$ 1.950,00",
+            "cores": [
+              "Preta"
+            ]
+          },
+          {
+            "modelo": "JBL Boombox 4",
+            "preco": "R$ 3.055,00",
+            "cores": [
+              "Preta"
+            ]
+          },
+          {
+            "modelo": "JBL Boombox 4",
+            "preco": "R$ 3.250,00",
+            "cores": [
+              "branca"
+            ]
+          },
+          {
+            "modelo": "JBL Boombox 4",
+            "preco": "R$ 3.497,00",
+            "cores": [
+              "Laranja"
+            ]
+          },
+          {
+            "modelo": "JBL Boombox 4",
+            "preco": "R$ 3.900,00",
+            "cores": [
+              "Marrom e Azul"
+            ]
+          },
+          {
+            "modelo": "JBL Party Box On-The-Go",
+            "preco": "R$ 1.820,00",
+            "cores": []
+          },
+          {
+            "modelo": "JBL Party Box 120",
+            "preco": "R$ 2.860,00",
+            "cores": []
+          },
+          {
+            "modelo": "JBL Party Box 130",
+            "preco": "R$ 3.380,00",
+            "cores": []
+          },
+          {
+            "modelo": "JBL Party Box Encore 2 c/mic",
+            "preco": "R$ 2.600,00",
+            "cores": []
+          },
+          {
+            "modelo": "JBL Party Box 320",
+            "preco": "R$ 3.640,00",
+            "cores": []
+          },
+          {
+            "modelo": "JBL Party Box 520",
+            "preco": "R$ 4.810,00",
+            "cores": []
+          },
+          {
+            "modelo": "JBL Party Box 720",
+            "preco": "R$ 8.476,00",
+            "cores": []
+          },
+          {
+            "modelo": "JBL Party Box Ultimate",
+            "preco": "R$ 9.880,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL Tune 110 C/fio",
+            "preco": "R$ 104,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL 500 C/fio",
+            "preco": "R$ 169,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL 530 C FIO",
+            "preco": "R$ 208,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL 520",
+            "preco": "R$ 286,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL 530 BT",
+            "preco": "R$ 364,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL 720",
+            "preco": "R$ 377,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL 730 BT",
+            "preco": "R$ 474,50",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL 770",
+            "preco": "R$ 507,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL QUANTUN 100 N2  GAME",
+            "preco": "R$ 286,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL QUANTUM 650",
+            "preco": "R$ 1.118,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL LIVE BUDS 3",
+            "preco": "R$ 1.033,50",
+            "cores": []
+          },
+          {
+            "modelo": "Fone JBL Tune Buds 2 C/Microfone",
+            "preco": "R$ 578,50",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "MANETE",
+        "itens": [
+          {
+            "modelo": "Manete Ps5",
+            "preco": "R$ 507,00",
+            "cores": []
+          },
+          {
+            "modelo": "Manete XBOX",
+            "preco": "R$ 507,00",
+            "cores": [
+              "White e Black"
+            ]
+          },
+          {
+            "modelo": "Manete Xbox Elite",
+            "preco": "R$ 1.560,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "MI",
+        "itens": [
+          {
+            "modelo": "Mi Band 10",
+            "preco": "R$ 344,50",
+            "cores": [
+              "Black"
+            ]
+          },
+          {
+            "modelo": "Mi Band 9 Pro",
+            "preco": "R$ 565,50",
+            "cores": [
+              "preto"
+            ]
+          },
+          {
+            "modelo": "Mi Band 10 Pro",
+            "preco": "R$ 604,50",
+            "cores": [
+              "preto"
+            ]
+          },
+          {
+            "modelo": "Mi stick",
+            "preco": "R$ 325,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "MICRO",
+        "itens": [
+          {
+            "modelo": "Micro SD Master Drive 32GB",
+            "preco": "R$ 52,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD Master Drive 64GB",
+            "preco": "R$ 78,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk Ultra 32GB",
+            "preco": "R$ 91,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk 64GB",
+            "preco": "R$ 117,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk 128GB",
+            "preco": "R$ 182,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk Ultra  256GB",
+            "preco": "R$ 325,00",
+            "cores": [
+              "Classe 10"
+            ]
+          },
+          {
+            "modelo": "Micro SD SanDisk Nitendo Switch 256GB",
+            "preco": "R$ 325,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk Extreme  128GB",
+            "preco": "R$ 468,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk Extreme  256GB",
+            "preco": "R$ 520,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk Extreme  512GB",
+            "preco": "R$ 1.170,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk EXTREME PRO 64GB",
+            "preco": "R$ 286,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk EXTREME PRO 128GB",
+            "preco": "R$ 504,40",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk EXTREME PRO 256GB",
+            "preco": "R$ 780,00",
+            "cores": []
+          },
+          {
+            "modelo": "Micro SD SanDisk EXTREME PRO 512GB",
+            "preco": "R$ 1.300,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "MICROFONE",
+        "itens": [
+          {
+            "modelo": "Microfone PULSE PRO - COM FIO 1 UND",
+            "preco": "R$ 84,50",
+            "cores": [
+              "SP803"
+            ]
+          },
+          {
+            "modelo": "Microfone PULSE PRO -  SEM FIO 2 UND",
+            "preco": "R$ 364,00",
+            "cores": [
+              "SP801"
+            ]
+          },
+          {
+            "modelo": "Microfone AIWA C/2",
+            "preco": "R$ 455,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "NINTENDO",
+        "itens": [
+          {
+            "modelo": "Nintendo Switch Mário Bros",
+            "preco": "R$ 3.055,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "PEN",
+        "itens": [
+          {
+            "modelo": "Pen SanDisk 32GB Z50",
+            "preco": "R$ 71,50",
+            "cores": []
+          },
+          {
+            "modelo": "Pen SanDisk 64GB Z50",
+            "preco": "R$ 91,00",
+            "cores": []
+          },
+          {
+            "modelo": "Pen SanDisk 128GB Z50",
+            "preco": "R$ 123,50",
+            "cores": []
+          },
+          {
+            "modelo": "Pen SanDisk FIT 3.0 64GB",
+            "preco": "R$ 104,00",
+            "cores": []
+          },
+          {
+            "modelo": "Pen SanDisk FIT 3.0 128GB",
+            "preco": "R$ 156,00",
+            "cores": []
+          },
+          {
+            "modelo": "Pen Multi 8GB",
+            "preco": "R$ 39,00",
+            "cores": []
+          },
+          {
+            "modelo": "Pen Multi 16GB",
+            "preco": "R$ 45,50",
+            "cores": []
+          },
+          {
+            "modelo": "Pen Multi 32GB",
+            "preco": "R$ 65,00",
+            "cores": []
+          },
+          {
+            "modelo": "Pen Multi 64GB",
+            "preco": "R$ 84,50",
+            "cores": []
+          },
+          {
+            "modelo": "Pen Multi 128GB",
+            "preco": "R$ 117,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "PHILIPS",
+        "itens": [
+          {
+            "modelo": "FONE PHILIPS SERIES TAT120",
+            "preco": "R$ 156,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "PS5",
+        "itens": [
+          {
+            "modelo": "Ps5 Slim Midia Digital C/2 jogos 825GB",
+            "preco": "R$ 5.460,00",
+            "cores": []
+          },
+          {
+            "modelo": "Ps5 Slim Midia Física 1TB",
+            "preco": "R$ 5.590,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "REDMI",
+        "itens": [
+          {
+            "modelo": "Tablet Redmi Pad 2 128/4GB 11\"",
+            "preco": "R$ 1.482,00",
+            "cores": [
+              "cinza"
+            ]
+          },
+          {
+            "modelo": "Tablet Redmi Pad 2 Bundle C/Capa 128/4GB 11\"",
+            "preco": "R$ 1.547,00",
+            "cores": [
+              "cinza"
+            ]
+          },
+          {
+            "modelo": "Tablet Redmi Pad 2 Pro 256/8GB 13\"",
+            "preco": "R$ 2.574,00",
+            "cores": [
+              "cinza"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "RELÓGIO",
+        "itens": [
+          {
+            "modelo": "Relógio Garmin Forerunner 165 Music",
+            "preco": "R$ 2.756,00",
+            "cores": [
+              "Preto"
+            ]
+          },
+          {
+            "modelo": "Relógio Garmin Forerunner 965",
+            "preco": "R$ 4.290,00",
+            "cores": [
+              "Preto"
+            ]
+          },
+          {
+            "modelo": "Relógio Garmin Forerunner 570 42mm",
+            "preco": "R$ 3.744,00",
+            "cores": [
+              "Preto e Azul"
+            ]
+          },
+          {
+            "modelo": "Relógio Garmin Venu 4 41mm",
+            "preco": "R$ 4.069,00",
+            "cores": [
+              "Preto"
+            ]
+          },
+          {
+            "modelo": "Relógio Garmin Venu 4 45mm",
+            "preco": "R$ 4.550,00",
+            "cores": [
+              "Cinza"
+            ]
+          },
+          {
+            "modelo": "Relógio Garmin Fenix 7x Pro Amoled",
+            "preco": "R$ 5.460,00",
+            "cores": [
+              "Preto"
+            ]
+          },
+          {
+            "modelo": "Relógio Garmin Fenix 8 51mm Amoled",
+            "preco": "R$ 7.969,00",
+            "cores": [
+              "Preto"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "ROBÔ",
+        "itens": [
+          {
+            "modelo": "Robô Xiami S40c",
+            "preco": "R$ 1.430,00",
+            "cores": []
+          },
+          {
+            "modelo": "Robô Xiami S40 Pro",
+            "preco": "R$ 2.704,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "SAMSUNG",
+        "itens": [
+          {
+            "modelo": "Tablet Samsung A11+ 128/6GB",
+            "preco": "R$ 1.885,00",
+            "cores": [
+              "cinza"
+            ]
+          },
+          {
+            "modelo": "Tablet Samsung A11+ 5G 128/6GB",
+            "preco": "R$ 2.210,00",
+            "cores": [
+              "cinza"
+            ]
+          },
+          {
+            "modelo": "Tablet Samsung S10 LITE  128/6GB 11\" C/caneta e capa",
+            "preco": "R$ 2.990,00",
+            "cores": [
+              "cinza"
+            ]
+          },
+          {
+            "modelo": "Tablet Samsung S10 LITE 256/8GB 11\" C/caneta e capa",
+            "preco": "R$ 3.185,00",
+            "cores": [
+              "cinza"
+            ]
+          },
+          {
+            "modelo": "Tablet Samsung S10 LITE 128/6GB 5G 11\" C/ caneta e capa",
+            "preco": "R$ 3.185,00",
+            "cores": []
+          },
+          {
+            "modelo": "Tablet Samsung S10 FE  128/8GB 11\" C/caneta e capa",
+            "preco": "R$ 3.575,00",
+            "cores": [
+              "cinza"
+            ]
+          },
+          {
+            "modelo": "Tablet Samsung S10 FE + 5G Wi-fi 128/8GB 13\" C/caneta e capa",
+            "preco": "R$ 4.550,00",
+            "cores": [
+              "azul",
+              "prata",
+              "cinza"
+            ]
+          },
+          {
+            "modelo": "Fone Samsung Buds Core",
+            "preco": "R$ 260,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone Samsung Buds Core",
+            "preco": "R$ 390,00",
+            "cores": [
+              "branco"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "SD",
+        "itens": [
+          {
+            "modelo": "SD SanDisk EXTREME PRO 256GB",
+            "preco": "R$ 845,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "SSD",
+        "itens": [
+          {
+            "modelo": "SSD 240GB Kingston",
+            "preco": "R$ 663,00",
+            "cores": []
+          },
+          {
+            "modelo": "SSD 480GB Kingston",
+            "preco": "R$ 871,00",
+            "cores": []
+          },
+          {
+            "modelo": "SSD 960GB Kingston",
+            "preco": "R$ 1.235,00",
+            "cores": []
+          },
+          {
+            "modelo": "SSD SNV3 1TBGB Kingston",
+            "preco": "R$ 1.300,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "TABLET",
+        "itens": [
+          {
+            "modelo": "Tablet  Sonic 64/4GB",
+            "preco": "R$ 364,00",
+            "cores": [
+              "azul"
+            ]
+          },
+          {
+            "modelo": "Tablet  Turma da Mônica 64/4GB",
+            "preco": "R$ 715,00",
+            "cores": [
+              "NB 415 7\""
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "TRICICLO",
+        "itens": [
+          {
+            "modelo": "Triciclo elétrico",
+            "preco": "R$ 1.001,00",
+            "cores": [
+              "cores"
+            ]
+          },
+          {
+            "modelo": "Triciclo elétrico",
+            "preco": "R$ 1.560,00",
+            "cores": [
+              "Com amortecedor e capacete"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "TV",
+        "itens": [
+          {
+            "modelo": "TV Box",
+            "preco": "R$ 130,00",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "UNI",
+        "itens": [
+          {
+            "modelo": "Uni TV V10",
+            "preco": "R$ 279,50",
+            "cores": []
+          },
+          {
+            "modelo": "Uni TV V11",
+            "preco": "R$ 318,50",
+            "cores": []
+          },
+          {
+            "modelo": "UNI TV V12 CAST",
+            "preco": "R$ 377,00",
+            "cores": []
+          },
+          {
+            "modelo": "Uni TV S1",
+            "preco": "R$ 461,50",
+            "cores": []
+          }
+        ]
+      },
+      {
+        "nome": "VIVO",
+        "itens": [
+          {
+            "modelo": "Relógio Garmin Vivo Active 6",
+            "preco": "R$ 2.769,00",
+            "cores": [
+              "Preto"
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "XIAOMI",
+        "itens": [
+          {
+            "modelo": "Robô Xiaomi H40",
+            "preco": "R$ 2.730,00",
+            "cores": []
+          },
+          {
+            "modelo": "Robô Xiaomi H50",
+            "preco": "R$ 3.640,00",
+            "cores": []
+          },
+          {
+            "modelo": "Robô Xiaomi Vacuum 5",
+            "preco": "R$ 6.370,00",
+            "cores": []
+          },
+          {
+            "modelo": "Fone Xiaomi Bud 6 Play",
+            "preco": "R$ 156,00",
+            "cores": []
+          },
+          {
+            "modelo": "Xiaomi Amazfit Bip Max",
+            "preco": "R$ 845,00",
+            "cores": []
+          },
+          {
+            "modelo": "Xiaomi Watch S4  41mm",
+            "preco": "R$ 1.170,00",
+            "cores": []
+          },
+          {
+            "modelo": "Xiaomi Watch S4  44mm",
+            "preco": "R$ 1.300,00",
+            "cores": []
+          },
+          {
+            "modelo": "Xiaomi Watch 2",
+            "preco": "R$ 1.170,00",
+            "cores": [
+              "preto"
+            ]
+          },
+          {
+            "modelo": "Xiaomi Amazfit T-Rex 3",
+            "preco": "R$ 1.950,00",
+            "cores": []
+          },
+          {
+            "modelo": "Xiaomi Amazfit T-Rex 3 Pro",
+            "preco": "R$ 3.250,00",
+            "cores": []
+          }
+        ]
+      }
+    ]
   },
   "tabela_apple_novos": {
     "categorias": [
@@ -710,72 +1671,32 @@
           },
           {
             "modelo": "iPhone 17E 256GB",
-            "preco": "R$ 4.980,00",
+            "preco": "R$ 4.900,00",
             "cores": [
               "White"
             ]
           },
           {
             "modelo": "iPhone 17 256GB",
-            "preco": "R$ 5.700,00",
+            "preco": "R$ 6.150,00",
             "cores": [
-              "Sage"
-            ]
-          },
-          {
-            "modelo": "iPhone 17 256GB",
-            "preco": "R$ 5.890,00",
-            "cores": [
-              "Black"
-            ]
-          },
-          {
-            "modelo": "iPhone 17 256GB",
-            "preco": "R$ 5.900,00",
-            "cores": [
-              "Purple"
-            ]
-          },
-          {
-            "modelo": "iPhone 17 256GB",
-            "preco": "R$ 6.000,00",
-            "cores": [
-              "White"
+              "Sage",
+              "white"
             ]
           },
           {
             "modelo": "iPhone 17 Pro 256GB",
-            "preco": "R$ 7.500,00",
+            "preco": "R$ 7.700,00",
             "cores": [
               "Orange"
             ]
           },
           {
             "modelo": "iPhone 17 Pro Max 256GB",
-            "preco": "R$ 7.950,00",
+            "preco": "R$ 8.300,00",
             "cores": [
-              "Blue"
-            ]
-          },
-          {
-            "modelo": "iPhone 17 Pro Max 256GB",
-            "preco": "R$ 7.995,00",
-            "cores": [
-              "Orange"
-            ]
-          },
-          {
-            "modelo": "iPhone 17 Pro Max 256GB",
-            "preco": "R$ 8.000,00",
-            "cores": [
-              "Silver"
-            ]
-          },
-          {
-            "modelo": "iPhone 17 Pro Max 512GB",
-            "preco": "R$ 9.100,00",
-            "cores": [
-              "Orange"
+              "Blue",
+              "Orange e Silve"
             ]
           }
         ]
