@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-10-01T13:43:46.461Z",
+  "ultima_atualizacao": "2026-10-02T13:48:25.994Z",
   "tabela_android_acessorios_diversos": {
     "categorias": [
       {
@@ -28,8 +28,13 @@
             ]
           },
           {
+            "modelo": "Galaxy A17 128/4GB",
+            "preco": "R$ 1.157,00",
+            "cores": []
+          },
+          {
             "modelo": "Galaxy A17 NFC 256/8GB",
-            "preco": "R$ 1.664,00",
+            "preco": "R$ 1.560,00",
             "cores": [
               "preto e cinza"
             ]
@@ -42,10 +47,17 @@
             ]
           },
           {
+            "modelo": "Galaxy S25 FE 5G NFC 256/8GB",
+            "preco": "R$ 4.095,00",
+            "cores": [
+              "azul marinho"
+            ]
+          },
+          {
             "modelo": "Galaxy S25 Ultra 5G NFC 256/12GB",
             "preco": "R$ 6.500,00",
             "cores": [
-              "Preto e Cinza"
+              "Preto"
             ]
           },
           {
@@ -53,6 +65,20 @@
             "preco": "R$ 7.280,00",
             "cores": [
               "Prata"
+            ]
+          },
+          {
+            "modelo": "Galaxy S26 Ultra 5G NFC 256/12GB",
+            "preco": "R$ 7.930,00",
+            "cores": [
+              "Violeta"
+            ]
+          },
+          {
+            "modelo": "Galaxy  Z Flip 8 256/12GB",
+            "preco": "R$ 7.540,00",
+            "cores": [
+              "Rosa e Preto"
             ]
           }
         ]
@@ -80,18 +106,6 @@
             "preco": "R$ 806,00",
             "cores": [
               "laranja"
-            ]
-          }
-        ]
-      },
-      {
-        "nome": "HOTMAV",
-        "itens": [
-          {
-            "modelo": "Hotmav A18 Pro Max 128/4GB",
-            "preco": "R$ 1.196,00",
-            "cores": [
-              "bordô"
             ]
           }
         ]
@@ -333,25 +347,25 @@
             "modelo": "Note 15 Pro 4G NFC 256/8GB",
             "preco": "R$ 2.132,00",
             "cores": [
-              "preto",
-              "titanium e azul *"
+              "*"
             ]
           },
           {
             "modelo": "Note 15 Pro 5G NFC 256/8GB",
             "preco": "R$ 2.392,00",
-            "cores": [
-              "preto"
-            ]
+            "cores": []
           },
           {
             "modelo": "Note 15 Pro 5G NFC 512/8GB",
-            "preco": "R$ 2.730,00",
+            "preco": "R$ 2.639,00",
             "cores": [
-              "preto",
-              "azul",
-              "titanium"
+              "ptitanium"
             ]
+          },
+          {
+            "modelo": "Note 16 Pro 5G NFC 512/12GB",
+            "preco": "R$ 2.834,00",
+            "cores": []
           },
           {
             "modelo": "Note 15 Pro+ 5G NFC 256/8GB",
@@ -481,7 +495,8 @@
             "modelo": "Poco M8s 5G NFC 256/8GB",
             "preco": "R$ 1.755,00",
             "cores": [
-              "branco"
+              "branco",
+              "preto"
             ]
           },
           {
@@ -503,13 +518,6 @@
             "modelo": "Poco X8 Pro 5G NFC 512/12GB",
             "preco": "R$ 3.887,00",
             "cores": []
-          },
-          {
-            "modelo": "Poco X8 Pro Max 5G NFC 256/12GB",
-            "preco": "R$ 3.718,00",
-            "cores": [
-              "azul"
-            ]
           },
           {
             "modelo": "Poco X8 Pro Max 5G NFC 512/12GB",
@@ -611,7 +619,8 @@
             "modelo": "Realme C85 NFC 256/8GB",
             "preco": "R$ 1.677,00",
             "cores": [
-              "preto"
+              "preto",
+              "azul"
             ]
           },
           {
@@ -790,14 +799,15 @@
             "modelo": "iPhone 16 128GB",
             "preco": "R$ 5.250,00",
             "cores": [
-              "Pink e White"
+              "Pink"
             ]
           },
           {
             "modelo": "iPhone 16 128GB",
             "preco": "R$ 5.340,00",
             "cores": [
-              "Blue e Ocean"
+              "Blue",
+              "White e Ocean"
             ]
           },
           {
@@ -821,15 +831,14 @@
             "cores": [
               "Sage",
               "Blue",
-              "Black",
-              "White e Purple"
+              "Black e Purple"
             ]
           },
           {
             "modelo": "iPhone 17 Pro 256GB",
             "preco": "R$ 7.700,00",
             "cores": [
-              "Blue e Silver"
+              "Silver"
             ]
           },
           {
@@ -841,7 +850,7 @@
           },
           {
             "modelo": "iPhone 17 Pro Max 256GB",
-            "preco": "R$ 7.950,00",
+            "preco": "R$ 7.750,00",
             "cores": [
               "Blue e Orange"
             ]
@@ -876,14 +885,14 @@
           },
           {
             "modelo": "iPhone 18 Pro Max 256GB",
-            "preco": "R$ 11.450,00",
+            "preco": "R$ 10.390,00",
             "cores": [
               "Glacier"
             ]
           },
           {
             "modelo": "iPhone 18 Pro Max 256GB",
-            "preco": "R$ 12.000,00",
+            "preco": "R$ 11.900,00",
             "cores": [
               "Burgundy"
             ]
